@@ -97,7 +97,7 @@
                      <div class="about__content">
                         <div class="section__header">
                            <span>About Us</span>
-                           <h2 class="title-animation">Welcome To Bride House
+                           <h2 class="title-animation">Welcome To Bridge House
                            </h2>
                            <div class="icon-thumb">
                               <div class="icon-thumb-single">
